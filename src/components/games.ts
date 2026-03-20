@@ -17,6 +17,7 @@ const students: Student[] = [
       "Simulador visual de algoritmos genéticos con selección, cruce, mutación y elitismo.",
     github: "https://github.com/Ju4nmaFd3z",
     linkedIn: "https://www.linkedin.com/in/juanma-fernández-rodríguez",
+    portfolio: "https://juanma-dev-portfolio.vercel.app",
   },
   {
     name: "Jazmín Gutiérrez Castro",
