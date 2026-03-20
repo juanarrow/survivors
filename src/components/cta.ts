@@ -1,12 +1,13 @@
+import { asset } from "../utils";
+
 export function renderAbout(): string {
   return `
     <section id="about" class="relative py-32 px-6">
       <div class="mx-auto max-w-5xl">
         <div class="fade-in-section overflow-hidden rounded-3xl border border-white/10 bg-gradient-to-b from-indigo-600/10 to-transparent">
-          <!-- Campus image -->
           <div class="relative h-48 w-full overflow-hidden sm:h-64">
             <img
-              src="/campus-slider1.jpg"
+              src="${asset("campus-slider1.jpg")}"
               alt="CPIFP Alan Turing — Campus"
               class="h-full w-full object-cover object-center"
             />
@@ -14,7 +15,7 @@ export function renderAbout(): string {
           </div>
 
           <div class="px-8 pb-12 pt-6 text-center sm:px-16 sm:pb-16">
-            <img src="/logo-dam.png" alt="DAM" class="mx-auto mb-6 h-14 w-auto" />
+            <img src="${asset("logo-dam.png")}" alt="DAM" class="mx-auto mb-6 h-14 w-auto" />
 
             <h2 class="text-3xl font-bold tracking-tight text-white sm:text-4xl">
               Sobre este espacio

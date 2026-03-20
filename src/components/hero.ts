@@ -1,3 +1,5 @@
+import { asset } from "../utils";
+
 export function renderHero(): string {
   return `
     <section class="relative flex min-h-[85vh] items-center justify-center overflow-hidden px-6 pt-20">
@@ -6,7 +8,7 @@ export function renderHero(): string {
 
       <div class="relative z-10 mx-auto max-w-4xl text-center">
         <div class="animate-fade-in mb-8 flex justify-center">
-          <img src="/logo-alanturing.webp" alt="CPIFP Alan Turing" class="h-16 w-auto sm:h-20" />
+          <img src="${asset("logo-alanturing.webp")}" alt="CPIFP Alan Turing" class="h-16 w-auto sm:h-20" />
         </div>
 
         <span
