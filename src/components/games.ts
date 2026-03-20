@@ -14,7 +14,7 @@ const students: Student[] = [
     projectUrl: "https://genetix-arena.vercel.app/",
     projectTitle: "Genetix Arena",
     description:
-      "Simulador visual de algoritmos genéticos con selección, cruce, mutación y elitismo.",
+      "Simulador táctico de combate autónomo con inteligencia artificial emergente. Migración de alta fidelidad (Java a TS) con interfaz React 19.",
     github: "https://github.com/Ju4nmaFd3z",
     linkedIn: "https://www.linkedin.com/in/juanma-fernández-rodríguez",
     portfolio: "https://juanma-dev-portfolio.vercel.app",
