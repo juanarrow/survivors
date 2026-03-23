@@ -85,6 +85,38 @@ const students: Student[] = [
       "Survivors táctico con estrategia y combate en tiempo real.",
     github: "https://github.com/Poio-o",
   },
+  {
+    name: "Ana Isabel Sánchez",
+    projectUrl: "https://anasan24.github.io/RogueLike_VERSION_2/",
+    projectTitle: "RogueLike Simple",
+    description:
+      "Conejitos vs Dinosaurios en un roguelike con música y combate por turnos.",
+    github: "https://github.com/ANASAN24",
+  },
+  {
+    name: "Ismael Parra Moussaif",
+    projectUrl: "https://radiant-gelato-19abff.netlify.app/",
+    projectTitle: "Survivor",
+    description:
+      "Simulación autónoma de cazadores vs presas con bitácora táctica en tiempo real.",
+    github: "https://github.com/is13mael",
+  },
+  {
+    name: "Santiago Luque Villanueva",
+    projectUrl: "https://survivoor.netlify.app/",
+    projectTitle: "Hunger Games",
+    description:
+      "Sandbox con editor drag-and-drop y modo singleplayer con movimiento WASD y disparos.",
+    github: "https://github.com/SantiagoLuqueVillanueva",
+  },
+  {
+    name: "María de la Paz Jiménez Martín",
+    projectUrl: "https://mpjmar.github.io/Particles/",
+    projectTitle: "Particles",
+    description:
+      "Simulación de partículas cuánticas con modos de observación, PvE y campaña por niveles.",
+    github: "https://github.com/mpjmar",
+  },
 ];
 
 function avatarFromName(name: string): string {
