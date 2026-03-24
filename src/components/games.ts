@@ -34,6 +34,7 @@ const students: Student[] = [
     description:
       "Combate por turnos con selección de aliados y criaturas en un entorno de mazmorra.",
     github: "https://github.com/AdriGuFe",
+    linkedIn: "https://www.linkedin.com/in/adri%C3%A1n-guti%C3%A9rrez-fern%C3%A1ndez-/",
   },
   {
     name: "Victor Pagola Del Pino",
@@ -52,6 +53,7 @@ const students: Student[] = [
     description:
       "Simulación de persecución y huida con modo sandbox, oleadas y sistema de mejoras.",
     github: "https://github.com/CurroPG",
+    linkedIn: "https://www.linkedin.com/in/curro-portillo-guerrero-075600390/",
   },
   {
     name: "Sergio Rodríguez Espinosa",
@@ -76,6 +78,7 @@ const students: Student[] = [
     description:
       "Dark fantasy con simulación, oleadas y bullet hell. Sistema de maestría y clases jugables.",
     github: "https://github.com/asanmun1905",
+    linkedIn: "https://www.linkedin.com/in/adri%C3%A1n-s%C3%A1nchez-mu%C3%B1oz-0b9b49396/",
   },
   {
     name: "Miguel Trujillo Rojas",
@@ -92,6 +95,7 @@ const students: Student[] = [
     description:
       "Conejitos vs Dinosaurios en un roguelike con música y combate por turnos.",
     github: "https://github.com/ANASAN24",
+    linkedIn: "https://www.linkedin.com/in/ana-isabel-s%C3%A1nchez-5a7ab9318/",
   },
   {
     name: "Ismael Parra Moussaif",
@@ -100,6 +104,7 @@ const students: Student[] = [
     description:
       "Simulación autónoma de cazadores vs presas con bitácora táctica en tiempo real.",
     github: "https://github.com/is13mael",
+    linkedIn: "https://www.linkedin.com/in/ismael-parra-moussaif-1a260735a/",
   },
   {
     name: "Santiago Luque Villanueva",
@@ -108,6 +113,7 @@ const students: Student[] = [
     description:
       "Sandbox con editor drag-and-drop y modo singleplayer con movimiento WASD y disparos.",
     github: "https://github.com/SantiagoLuqueVillanueva",
+    linkedIn: "https://www.linkedin.com/in/santiagoluquevillanueva/",
   },
   {
     name: "María de la Paz Jiménez Martín",
@@ -116,6 +122,7 @@ const students: Student[] = [
     description:
       "Simulación de partículas cuánticas con modos de observación, PvE y campaña por niveles.",
     github: "https://github.com/mpjmar",
+    linkedIn: "https://www.linkedin.com/in/maría-paz-jiménez-martín",
   },
 ];
 
