@@ -122,7 +122,7 @@ const students: Student[] = [
     description:
       "Simulación de partículas cuánticas con modos de observación, PvE y campaña por niveles.",
     github: "https://github.com/mpjmar",
-    linkedIn: "https://www.linkedin.com/in/maría-paz-jiménez-martín",
+    linkedIn: "https://www.linkedin.com/in/maria-paz-jimenez-martin-035585237/",
   },
 ];
 
